@@ -39,6 +39,14 @@ Prior moving to the US, I completed my MS by Research in Computer Science and En
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Raspbian-D00000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+## 🧲 Hardware Platforms
+
+![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
 
 ## 📈 GitHub Stats
 
