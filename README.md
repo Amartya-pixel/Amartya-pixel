@@ -48,19 +48,6 @@ Prior moving to the US, I completed my MS by Research in Computer Science and En
 
 
 
-## 📈 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amartyabasu&theme=dracula)
-</br></br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amartyabasu&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amartyabasu&theme=dracula)
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amartyabasu&label=Profile%20views&color=0e75b6&style=flat" alt="amartyabasu" /> 
-</p>
-
-
-
 <!--
 **Amartya-pixel/Amartya-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
